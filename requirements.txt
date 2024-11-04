@@ -1,0 +1,8 @@
+Flask==1.1.1
+werkzeug
+cryptography==2.9.2
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-auth
